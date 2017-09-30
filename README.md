@@ -2,7 +2,7 @@
 
 #### 运行命令
 
-***  webpack_react 
+*** webpack_react 
 
 1. 全局安装webpack 和 node 
 
